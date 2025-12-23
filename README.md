@@ -1,5 +1,4 @@
 PENJELASAN KODE ARRAY PERKALIAN
-(Dijelaskan per 5 Baris)
 
 -----------------------------------------------------------------
 Baris 1-5: Persiapan Awal
